@@ -1,0 +1,8 @@
+netselskab,omraade,tarifkode,vinter_lavlast_ex_moms_kr,vinter_hoejlast_ex_moms_kr,vinter_spidslast_ex_moms_kr,vinter_lavlast_inkl_moms_oere,vinter_hoejlast_inkl_moms_oere,vinter_spidslast_inkl_moms_oere,sommer_lavlast_inkl_moms_oere,sommer_hoejlast_inkl_moms_oere,sommer_spidslast_inkl_moms_oere,vinter_spids_minus_lav_oere_inkl_moms,elbil_40kwh_vinter_besparelse_kr,kilde_periode
+Cerius A/S,DK2,30TR_C_ET,0.115336,0.346008,1.038025,14.42,43.25,129.75,14.42,21.63,56.23,115.34,46.13,2026-10-01..2027-01-01
+Radius Elnet A/S,DK2,DT_C_01,0.106175,0.318524,0.955573,13.27,39.82,119.45,13.27,19.91,51.76,106.17,42.47,2026-10-01..2027-01-01
+N1 A/S,DK1,CD,0.087854,0.263563,0.790690,10.98,32.95,98.84,10.98,16.47,42.83,87.85,35.14,2026-10-01..2027-01-01
+Vores Elnet A/S,DK1,TNT1011,0.076900,0.230700,0.692200,9.61,28.84,86.53,7.98,11.96,31.09,76.91,30.77,2026-10-01..2027-01-01
+Dinel A/S,DK1,TCL<100_02,0.061500,0.184600,0.553900,7.69,23.08,69.24,7.69,11.54,30.00,61.55,24.62,2026-10-01..2027-01-01
+Konstant Net A/S,DK1,C_FBTNTR_B,0.060500,0.181600,0.544900,7.56,22.70,68.11,7.56,11.35,29.51,60.55,24.22,2026-10-01..2027-02-01
+TREFOR El-net A/S,DK1,C,0.042900,0.128800,0.386300,5.36,16.10,48.29,5.36,8.05,20.93,42.93,17.17,2026-10-01..2027-01-01

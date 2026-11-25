@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use these datasets in an article, analysis, or energy model, please cite DagensEl.dk as below."
+title: "Denmark Electricity Data 2026: Energinet Spot Prices (DK1/DK2), 7-DSO Grid Tariffs, and Home EV Charging Costs"
+type: dataset
+version: "2026.11"
+date-released: "2026-11-22"
+license: CC-BY-4.0
+url: "https://dagensel.dk/rapporter/"
+authors:
+  - name: "DagensEl.dk"
+    website: "https://dagensel.dk/"
+    email: "kontakt@dagensel.dk"
+keywords:
+  - denmark
+  - electricity-prices
+  - energinet
+  - dk1
+  - dk2
+  - nettariffer
+  - datahub
+  - ev-charging
+  - negative-prices
+  - open-data
+abstract: "Three open CSV datasets derived from 62,208 official Energinet DayAheadPrices 15-minute intervals (1 Jan to 20 Nov 2026) and DataHub Q4 2026 C-tariffs across Denmark's 7 largest distribution system operators."
