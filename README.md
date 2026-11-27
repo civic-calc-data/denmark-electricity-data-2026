@@ -49,7 +49,7 @@ Across all 7 grid operators, midday solar charging (12:00 to 15:00) finished che
 
 Period covered: 1 January to 20 November 2026 (324 full days, 31,104 quarter-hours per bidding zone, 62,208 total intervals).
 - YTD average spot price (ex. VAT / incl. VAT): **0.8957 / 1.1196 kr/kWh** in DK1 and **0.9169 / 1.1461 kr/kWh** in DK2.
-- Negative hours (hourly mean < 0 kr): **203 hours** (831 quarter-hours, 2.61%) in DK1 vs. **94 hours** (371 quarter-hours, 1.21%) in DK2.
+- Negative hours (hourly mean < 0 kr): **203 hours** (2.61% of all hours; 831 quarter-hours, 2.67%) in DK1 vs. **94 hours** (1.21%; 371 quarter-hours, 1.19%) in DK2.
 - Cheapest average clock hour: **13:00 to 14:00** in both zones (0.4861 kr/kWh ex. VAT in DK1, 0.5294 kr/kWh in DK2).
 
 | Month | DK1 avg incl. VAT (kr/kWh) | DK1 neg. hours | DK1 neg. quarters | DK2 avg incl. VAT (kr/kWh) | DK2 neg. hours | DK2 neg. quarters | DK2 minus DK1 ex. VAT (kr/kWh) |

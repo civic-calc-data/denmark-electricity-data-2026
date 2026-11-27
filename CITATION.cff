@@ -2,8 +2,8 @@ cff-version: 1.2.0
 message: "If you use these datasets in an article, analysis, or energy model, please cite DagensEl.dk as below."
 title: "Denmark Electricity Data 2026: Energinet Spot Prices (DK1/DK2), 7-DSO Grid Tariffs, and Home EV Charging Costs"
 type: dataset
-version: "2026.11"
-date-released: "2026-11-22"
+version: "2026.11.1"
+date-released: "2026-11-27"
 license: CC-BY-4.0
 url: "https://dagensel.dk/rapporter/"
 authors:
